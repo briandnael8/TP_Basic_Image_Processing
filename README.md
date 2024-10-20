@@ -1,7 +1,5 @@
 # TP_Basic_Image_Processing
 
-# TP_Basic_Image_Processing
-
 This repository contains a lab on basic image processing using Python. The lab demonstrates the application of various image processing techniques through a series of steps and examples. The main focus is on the implementation and visualization of the Harris Corner Detection algorithm.
 
 ## Summary
